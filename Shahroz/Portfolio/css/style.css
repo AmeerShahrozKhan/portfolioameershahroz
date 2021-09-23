@@ -13,7 +13,7 @@
 }
 
 header{
-    background-image: url('/Portfolio/Image/bg\ img.jpg');
+    background-image: url('Portfolio/Image/bg\ img.jpg');
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
